@@ -83,7 +83,6 @@ void PrintArray(int[] array)
        Console.WriteLine("Их разность равна: " + (max - min));   
 }
 
-
 //Zadacha34();
 //Zadacha36();
 Zadacha38();
